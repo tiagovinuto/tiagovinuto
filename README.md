@@ -41,10 +41,3 @@ I work in data collection, structuring and pre-processing processes, in addition
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
  
  <br>
-
-<b> :chart_with_upwards_trend: Estatísticas</b>:
-
-<br>
-
-<b> ⚡ Repositório Principal</b>:
-
