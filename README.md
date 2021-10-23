@@ -1,33 +1,28 @@
 # Olá, eu sou o Tiago Vinuto 🖐️
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=karinnecristinapereira@gmail.com)](thiagovinutto@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/tiago-vinuto/)
 
 ## Sejam todos bem vindos ao meu perfil! 😊😊
 <img align="left" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
 
 <br> 
 
-Atuo nos processos de coleta, estruturação e pré-processamento de dados, além do desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que apoiem a squad de dados na evolução dos produtos e serviços.
+Sou uma pessoa curiosa e inquieta e com interesse por diversos assuntos. Atualmente, tenho estudados e aprimorado meu conhecimento desenvolvendo soluções baseadas em aprendizado de máquina em diversos cenários do mundo real. Neste sentido, meu foco profissional é atuar com Ciência de Dados.
 
-I work in data collection, structuring and pre-processing processes, in addition to developing analytical models (predictive and descriptive) and other processes that support the data squad in the evolution of products and services.
+Das minhas experiências anteriores, trago habilidades relacionadas à ciências de dados como: fazer perguntas, interpretar assuntos complexos para o público leigo e contar histórias de forma clara e concisa. Com relação a engenharia de dados, possuo habilidades relacionadas a processos de coleta, estruturação e pré-processamento de dados, além de desenvolver modelos analíticos (preditivos e descritivos) e demais processos afim de apoiar a squad de dados na evolução dos produtos e serviços.
 
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <b>🚀 Linguagens e Ferramentas</b>:
+ - 💻 Utilizo no meu dia:
 
- - 💻 Uso diário:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
- ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
- ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+ ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
  
