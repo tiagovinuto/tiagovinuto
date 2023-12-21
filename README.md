@@ -7,9 +7,17 @@
 
 <br> 
 
-Sou uma pessoa curiosa e inquieta e com interesse por diversos assuntos. Atualmente, tenho estudados e aprimorado meu conhecimento desenvolvendo soluções baseadas em aprendizado de máquina em diversos cenários do mundo real. Neste sentido, meu foco profissional é atuar com Ciência de Dados.
+Curioso e inquieto, com interesse por diversos assuntos, sou um cientista de dados apaixonado por aprendizado de máquina. Tenho experiência em desenvolver soluções baseadas em IA para diversos cenários do mundo real, como:
 
-Das minhas experiências anteriores, trago habilidades relacionadas à ciências de dados como: fazer perguntas, interpretar assuntos complexos para o público leigo e contar histórias de forma clara e concisa. Com relação a engenharia de dados, possuo habilidades relacionadas a processos de coleta, estruturação e pré-processamento de dados, além de desenvolver modelos analíticos (preditivos e descritivos) e demais processos afim de apoiar a squad de dados na evolução dos produtos e serviços.
+Recomendação de produtos
+Análise de fraudes
+Previsões de demanda
+Também possuo habilidades de engenharia de dados, incluindo:
+
+Coleta e estruturação de dados
+Pré-processamento de dados
+Desenvolvimento de modelos analíticos (preditivos e descritivos)
+Sou uma pessoa comunicativa e com facilidade de trabalhar em equipe. Estou sempre buscando aprender e me desenvolver, e estou ansioso para contribuir com projetos inovadores.
 
 
 <b>🚀 Linguagens e Ferramentas</b>:
