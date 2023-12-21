@@ -5,8 +5,6 @@
 ## Seja bem vindo ao meu perfil!
 <img align="left" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
 
-<br> 
-
 Curioso e inquieto, com interesse por diversos assuntos, sou um cientista de dados apaixonado por aprendizado de máquina. Tenho experiência em desenvolver soluções baseadas em IA para diversos cenários do mundo real, como:
 
 Recomendação de produtos
