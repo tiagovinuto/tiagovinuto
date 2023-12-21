@@ -7,14 +7,15 @@
 
 Curioso e inquieto, com interesse por diversos assuntos, sou um cientista de dados apaixonado por aprendizado de máquina. Tenho experiência em desenvolver soluções baseadas em IA para diversos cenários do mundo real, como:
 
-Recomendação de produtos
-Análise de fraudes
-Previsões de demanda
+- Recomendação de produtos
+- Análise de fraudes
+- Previsões de demanda
 Também possuo habilidades de engenharia de dados, incluindo:
 
-Coleta e estruturação de dados
-Pré-processamento de dados
-Desenvolvimento de modelos analíticos (preditivos e descritivos)
+- Coleta e estruturação de dados
+- Pré-processamento de dados
+- Desenvolvimento de modelos analíticos (preditivos e descritivos)
+
 Sou uma pessoa comunicativa e com facilidade de trabalhar em equipe. Estou sempre buscando aprender e me desenvolver, e estou ansioso para contribuir com projetos inovadores.
 
 
