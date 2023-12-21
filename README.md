@@ -3,7 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/tiago-vinuto/)
 
 ## Seja bem vindo ao meu perfil!
-<img align="left" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
+<img align="left" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif"/>
+
+## Sobre mim
 
 Curioso e inquieto, com interesse por diversos assuntos, sou um cientista de dados apaixonado por aprendizado de máquina. Tenho experiência em desenvolver soluções baseadas em IA para diversos cenários do mundo real, como:
 
