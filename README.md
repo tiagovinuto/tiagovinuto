@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/tiago-vinuto/)
 
 ## Seja bem vindo ao meu perfil!
-<img align="left" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif"/>
+<img align="left" alt="GIF" src="[https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnielseniq.com%2Fglobal%2Fen%2Finsights%2Fanalysis%2F2019%2Fits-not-guessing-its-science-data-science%2F&psig=AOvVaw0szT8D7DF35BWdsmwmp9ma&ust=1703255737308000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCM2Z3goIMDFQAAAAAdAAAAABAD)"/>
 
 ## Sobre mim
 
