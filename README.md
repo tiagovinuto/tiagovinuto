@@ -1,47 +1,69 @@
-# Olá, eu sou o Tiago Vinuto 🖐️
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=karinnecristinapereira@gmail.com)](thiagovinutto@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/tiago-vinuto/)
+# 👋 Olá, eu sou o Tiago Vinuto  
 
-## Seja bem vindo!
-<img align="left" alt="GIF" src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif"/>
+🎯 **Cientista de Dados Sênior | Especialista em IA, ML e MLOps**  
+💡 Apaixonado por transformar dados em soluções inteligentes para negócios.  
+🌍 Atuação em projetos de impacto nos setores de **governo, petróleo, mineração, segurança e mobilidade urbana**.  
 
-## Sobre mim
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-vinuto/)](https://www.linkedin.com/in/tiago-vinuto/)  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagovinutto@gmail.com)](mailto:thiagovinutto@gmail.com)  
 
-Curioso e inquieto, com interesse por diversos assuntos, sou um cientista de dados apaixonado por aprendizado de máquina. Tenho experiência em desenvolver soluções baseadas em IA para diversos cenários do mundo real, como:
+---
 
-- Recomendação de produtos
-- Análise de fraudes
-- Previsões de demanda
-Também possuo habilidades de engenharia de dados, incluindo:
+## 🚀 Sobre mim  
+Com **9+ anos de experiência**, atuo no desenvolvimento de soluções envolvendo **IA, aprendizado de máquina e MLOps** para **otimização de processos, previsão de demanda e tomada de decisão estratégica**.  
+Nos últimos anos, venho aprofundando em **LLM’s, agentes inteligentes e RAG**, criando aplicações práticas que combinam **Ciência de Dados e Engenharia de IA**.  
 
-- Coleta e estruturação de dados
-- Pré-processamento de dados
-- Desenvolvimento de modelos analíticos (preditivos e descritivos)
+🔎 **Principais interesses atuais**:  
+- Desenvolvimento de **aplicações com LLMs** (LangChain, LlamaIndex)  
+- **Agentes inteligentes** e sistemas autônomos  
+- **Previsão de séries temporais** e análise de mercado  
+- **MLOps** (MLflow, FastAPI, Docker, Prometheus, Grafana)  
 
-Sou uma pessoa comunicativa e com facilidade de trabalhar em equipe. Estou sempre buscando aprender e me desenvolver, e estou ansioso para contribuir com projetos inovadores.
+---
 
+## 🛠️ Tech Stack  
 
-<b>🚀 Linguagens e Ferramentas</b>:
- - 💻 Utilizo no meu dia:
+**Linguagens & Ferramentas do dia a dia:**  
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=PostgreSQL)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
+![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)
 
- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
- ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
- ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
- ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
- ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
- ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
- ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
- ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
- ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
- 
- - ⚙️ Tenho conhecimento básico:
- ![Heroku](https://img.shields.io/badge/-Heroku-black?style=plastic&logo=Heroku)
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
- 
- - 🌱 Estou aprendendo:
- ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=Elasticsearch)
- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
- 
- <br>
+**MLOps & Deploy:**  
+![MLflow](https://img.shields.io/badge/-MLflow-black?style=flat-square&logo=mlflow)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=grafana)
+
+**LLMs & Agentes:**  
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=chainlink)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-black?style=flat-square&logo=llama)
+![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
+
+---
+
+## 📂 Projetos em Destaque  
+🔹 [**Agente de Suporte Técnico com LLMs**](#) – Arquitetura multiagente com Triage, Bug e Help Agents.  
+🔹 [**Previsão de Demanda em Séries Temporais**](#) – Modelos Prophet e MLflow para monitoramento em produção.  
+🔹 [**Aplicação RAG para Pesquisa Jurídica**](#) – Recuperação semântica de documentos com LlamaIndex e LangChain.  
+
+*(Mais projetos disponíveis nos repositórios 👇)*  
+
+---
+
+## 📊 GitHub Stats  
+
+![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagovinuto&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagovinuto&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌱 Em evolução  
+Atualmente, estou aprofundando em:  
+- **Construção de aplicações RAG em produção**  
+- **Orquestração de agentes com LangGraph**  
+- **Escalabilidade de modelos em ambientes cloud (AWS/GCP)**  
